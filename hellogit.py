@@ -1,2 +1,2 @@
-print("hello py")
+print("new hello py")
 print("hello curso")
